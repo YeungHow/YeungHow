@@ -8,7 +8,7 @@ From being involved in building and data modelling of data warehouses, to benchm
 ## ⚙️ Technologies / Tools
 #### Languages & Databases <!-- languages -->
 [![](https://img.shields.io/badge/Code-Python-success?style=flat&logo=Python&logoColor=white)](https://www.python.org/)
-[![](https://img.shields.io/badge/Code-C++-success?style=flat&logo=C&logoColor=white)](https://github.com/chkjacky)
+[![](https://img.shields.io/badge/Code-C++-success?style=flat&logo=C%2b%2b&logoColor=white)](https://github.com/chkjacky)
 [![](https://img.shields.io/badge/Code-Java-success?style=flat&logo=Java&logoColor=white)](https://www.java.com/en/)
 <!-- databases -->
 [![](https://img.shields.io/badge/Database-MSSQL-informational?style=flat&logo=Microsoft&logoColor=white&color=blue)](https://www.microsoft.com/en-us/sql-server/sql-server-2022)
