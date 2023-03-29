@@ -2,15 +2,21 @@
 
 Currently a Senior Technology Consultant specializing in Data and Analytics.
 
-I've worn many hats as a Data Engineer, Data Scientist, Software and AI Engineer. 
-From being involved in building and data modelling of data warehouses, to benchmark testing embedded computing board, to research and training of several DL model in the computer vision space. Prior into entering tech, I too carry other industrial experiences as a mechanical engineer focussed on mechanical design, manufacturing and assembly
+I've worn many hats as a Data Engineer, Data Scientist, Software and AI Engineer. <br>
+Prior experience include
+<ul>
+  <li> building and data modelling of data warehouses </li>
+  <li> Benchmark testing embedded computing board </li>
+  <li> Research and training of Deep Learning models in the computer vision space. </li>
+</ul>
+
+Prior into entering Tech, I carry other industrial experiences as a mechanical engineer focusing on mechanical design, manufacturing and assembly
 
 ## ⚙️ Technologies / Tools
 #### Languages & Databases <!-- languages -->
 [![](https://img.shields.io/badge/Code-Python-success?style=flat&logo=Python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/Code-C++-success?style=flat&logo=C%2b%2b&logoColor=white)](https://github.com/chkjacky)
-[![](https://img.shields.io/badge/Code-Java-success?style=flat&logo=Java&logoColor=white)](https://www.java.com/en/)
-<!-- databases -->
+[![](https://img.shields.io/badge/Code-Java-success?style=flat&logo=Java&logoColor=white)](https://www.java.com/en/) <br>
 [![](https://img.shields.io/badge/Database-MSSQL-informational?style=flat&logo=Microsoft&logoColor=white&color=blue)](https://www.microsoft.com/en-us/sql-server/sql-server-2022)
 [![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=blue)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=blue)](https://www.sqlite.org/index.html)
