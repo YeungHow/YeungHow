@@ -23,7 +23,9 @@ Prior into entering Tech, I carry other industrial experiences as a mechanical e
 [![](https://img.shields.io/badge/Code-Java-success?style=flat&logo=Java&logoColor=white&color=navy)](https://www.java.com/en/) <br>
 [![](https://img.shields.io/badge/Database-MSSQL-informational?style=flat&logo=Microsoft&logoColor=white&color=blue)](https://www.microsoft.com/en-us/sql-server/sql-server-2022)
 [![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=blue)](https://www.mysql.com/)
-[![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=blue)](https://www.sqlite.org/index.html)
+[![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=blue)](https://www.sqlite.org/index.html)<br>
+[![](https://img.shields.io/badge/web-HTML5-success?style=flat&logo=HTML5&logoColor=white&color=red)]()
+[![](https://img.shields.io/badge/web-CSS3-success?style=flat&logo=CSS3&logoColor=white&color=blue)]() <br>
 #### Cloud Platforms <!-- cloud tech -->
 [![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=blue)](https://www.azure.microsoft.com/)
 [![](https://img.shields.io/badge/Cloud-DataBricks-informational?style=flat&logo=Databricks&logoColor=white&color=red)](https://www.databricks.com/)
