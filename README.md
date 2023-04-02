@@ -18,22 +18,28 @@ Prior into entering Tech, I carry other industrial experiences as a mechanical e
 
 ## ⚙️ Technologies / Tools
 #### Languages & Databases <!-- languages -->
-[![](https://img.shields.io/badge/Code-Python-success?style=flat&logo=Python&logoColor=white&color=navy)](https://www.python.org/)
-[![](https://img.shields.io/badge/Code-C++-success?style=flat&logo=C%2b%2b&logoColor=white&color=navy)](https://github.com/YeungHow)
-[![](https://img.shields.io/badge/Code-Java-success?style=flat&logo=Java&logoColor=white&color=navy)](https://www.java.com/en/) <br>
+[![](https://img.shields.io/badge/Code-Python-success?style=flat&logo=Python&logoColor=white&color=steelblue)](https://www.python.org/)
+[![](https://img.shields.io/badge/Code-C++-success?style=flat&logo=C%2b%2b&logoColor=white&color=cornflowerblue)](https://github.com/YeungHow)
+[![](https://img.shields.io/badge/Code-Java-success?style=flat&logo=Java&logoColor=white&color=blue)](https://www.java.com/en/) <br>
+[![](https://img.shields.io/badge/web-HTML5-success?style=flat&logo=HTML5&logoColor=white&color=red)]()
+[![](https://img.shields.io/badge/web-CSS3-success?style=flat&logo=CSS3&logoColor=white&color=royalblue)]() 
+[![](https://img.shields.io/badge/Code-JavaScript-success?style=flat&logo=JavaScript&logoColor=white&color=gold)](https://www.javascript.com/) <br/>
 [![](https://img.shields.io/badge/Database-MSSQL-informational?style=flat&logo=Microsoft&logoColor=white&color=blue)](https://www.microsoft.com/en-us/sql-server/sql-server-2022)
 [![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=blue)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=blue)](https://www.sqlite.org/index.html)<br>
-[![](https://img.shields.io/badge/web-HTML5-success?style=flat&logo=HTML5&logoColor=white&color=red)]()
-[![](https://img.shields.io/badge/web-CSS3-success?style=flat&logo=CSS3&logoColor=white&color=blue)]() <br>
+
 #### Cloud Platforms <!-- cloud tech -->
-[![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=blue)](https://www.azure.microsoft.com/)
-[![](https://img.shields.io/badge/Cloud-DataBricks-informational?style=flat&logo=Databricks&logoColor=white&color=red)](https://www.databricks.com/)
+[![](https://img.shields.io/badge/Cloud%20Computing-Azure-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=blue)](https://www.azure.microsoft.com/) <br/>
+[![](https://img.shields.io/badge/Cloud%20Platform-DataBricks-informational?style=flat&logo=Databricks&logoColor=white&color=red)](https://www.databricks.com/)
 #### Tools <!-- tools -->
-[![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&logoColor=white&color=red)](https://git-scm.com/)
-[![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=Postman&logoColor=white&color=orange)](https://www.postman.com/)
-[![](https://img.shields.io/badge/Tool-MySQL%20WorkBench-informational?style=flat&logo=MySQL&logoColor=white&color=blue)](https://www.mysql.com/products/workbench/)
-[![](https://img.shields.io/badge/Tool-MSSQL%20Management%20Studio-informational?style=flat&logo=Microsoft&logoColor=white&color=blue)](https://learn.microsoft.com/en-us/sql/ssms/release-notes-ssms?view=sql-server-ver16)
+[![](https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=Git&logoColor=white&color=red)](https://git-scm.com/)
+<br/> <!-- API Platform-->
+[![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=Postman&logoColor=white&color=orange)](https://www.postman.com/) 
+<br/> <!-- DB Tools-->
+[![](https://img.shields.io/badge/SQL-MSSQL%20Management%20Studio-informational?style=flat&logo=Microsoft&logoColor=white&color=blue)](https://learn.microsoft.com/en-us/sql/ssms/release-notes-ssms?view=sql-server-ver16)
+[![](https://img.shields.io/badge/SQL-MySQL%20WorkBench-informational?style=flat&logo=MySQL&logoColor=white&color=blue)](https://www.mysql.com/products/workbench/)
+[![](https://img.shields.io/badge/SQL-DBeaver-informational?style=flat&logo=MySQL&logoColor=white&color=chocolate)](https://dbeaver.io/)
+<br/> <!-- containerization / orchestration -->
 [![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=blue)](https://www.docker.com/)
 #### Libraries <!-- Python libraries -->
 <span><b>Python:</b></span>
@@ -43,14 +49,15 @@ Prior into entering Tech, I carry other industrial experiences as a mechanical e
 [![](https://img.shields.io/badge/Python-NumPy-informational?style=flat&logo=NumPy&logoColor=white&color=blue)](https://www.numpy.org/)
 [![](https://img.shields.io/badge/Python-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=blue)](https://www.pandas.pydata.org/)
 [![](https://img.shields.io/badge/Python-OpenCV-success?style=flat&logo=OpenCV&logoColor=white)](https://www.opencv.org/)
+[![](https://img.shields.io/badge/Python-Matplotlib-success?style=flat&logo=Python&logoColor=white&color=navy)](https://matplotlib.org/)
+[![](https://img.shields.io/badge/Python-Seaborn-success?style=flat&logo=Python&logoColor=white&color=navy)](https://seaborn.pydata.org/)
 
 ## ✍️ Blog & Articles
 Nothing for now...🦗
 
 ## 🔧 Personal Development Plan
 #### LEARNING NOW 
-[![](https://img.shields.io/badge/Code-JavaScript-success?style=flat&logo=JavaScript&logoColor=white)](https://www.javascript.com/)    <br/>
-[![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=JavaScript&logoColor=white&color=darkgreen)](https://www.mongodb.com/)
+[![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=darkgreen)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/Framework-ExpressJS-informational?style=flat&logo=Express&logoColor=white&color=black)](https://expressjs.com/)
 [![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white&color=blue)](https://react.dev/)
 [![](https://img.shields.io/badge/Framework-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=blue)](https://nodejs.org/)
