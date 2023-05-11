@@ -56,7 +56,8 @@ Prior into entering Tech, I carry other industrial experiences as a mechanical e
 
  
 <span><b>JavaScript:<b/><span/><br/>
-[![](https://img.shields.io/badge/Framework-ExpressJS-informational?style=flat&logo=Express&logoColor=white&color=white)](https://expressjs.com/)<br/>
+[![](https://img.shields.io/badge/Framework-ExpressJS-informational?style=flat&logo=Express&logoColor=white&color=white)](https://expressjs.com/)
+[![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white&color=blue)](https://react.dev/) <br/>
 [![](https://img.shields.io/badge/Runtime-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=brightgreen)](https://nodejs.org/)
 [![](https://img.shields.io/badge/Runtime-Nodemon-informational?style=flat&logo=Nodemon.js&logoColor=white&color=green)](https://www.npmjs.com/package//nodemon)
 
@@ -65,15 +66,15 @@ Prior into entering Tech, I carry other industrial experiences as a mechanical e
 Nothing for now...🦗
 
 ## 🔧 Personal Development Plan
-#### LEARNING NOW 
+#### IN PROGRESS 
 [![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=darkgreen)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/Framework-ExpressJS-informational?style=flat&logo=Express&logoColor=white&color=white)](https://expressjs.com/)
 [![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white&color=blue)](https://react.dev/)
-[![](https://img.shields.io/badge/Runtime-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=brightgreen)](https://nodejs.org/)
+[![](https://img.shields.io/badge/Runtime-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=brightgreen)](https://nodejs.org/) <br/>
+[![](https://img.shields.io/badge/GitHub%2Eio-Professional%20Portfolio-informational?style=flat&logo=GitHubPages&logoColor=white&color=black)](https://pages.github.com/)
+[![](https://img.shields.io/badge/Firebase-Professional%20Portfolio-informational?style=flat&logo=Firebase&logoColor=white&color=black)](https://pages.github.com/) 
 <br/>
 #### IN ROADMAP
-[![](https://img.shields.io/badge/GitHub%2Eio-Professional%20Portfolio-informational?style=flat&logo=GitHubPages&logoColor=white&color=black)](https://pages.github.com/)
-[![](https://img.shields.io/badge/Firebase-Professional%20Portfolio-informational?style=flat&logo=Firebase&logoColor=white&color=black)](https://pages.github.com/) <br/>
 [![](https://img.shields.io/badge/Netlify-Creative%20Portfolio-informational?style=flat&logo=Netlify&logoColor=white&color=black)](https://www.netlify.com/)
 [![](https://img.shields.io/badge/Medium-Medium%20Posts-informational?style=flat&logo=Medium&logoColor=white&color=black)](https://www.netlify.com/) <br/>
 [![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=Django&logoColor=white&color=darkgreen)](https://www.djangoproject.com/) <br/>
