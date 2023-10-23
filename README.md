@@ -1,15 +1,15 @@
 ## Hi there, I'm Yeung!👋
 <html>
 <header>
-Currently a Senior Technology Consultant specializing in Data and Analytics.
-
+Currently a Senior Technology Consultant specializing in AI and Data.
 I've worn many hats as a Data Engineer, Data Scientist, Software and AI Engineer. <br/>
   
 Prior experience include
 <ul>
-  <li> building and data modelling of data warehouses </li>
+  <li> Creating small application using LLMs to retrieve documents/text/CSV </li>
+  <li> Building of ingestion & ETL pipelines for Data Warehouses (On Premise) / Lakehouses (Cloud)</li>
   <li> Benchmark testing embedded computing board </li>
-  <li> Research and training of Deep Learning models in the computer vision space. </li>
+  <li> Research and training of Computer Vision based Deep Learning model (CNN / Unet / Yolo / Mask-RCNN) </li>
 </ul>
 
 Prior into entering Tech, I carry other industrial experiences as a mechanical engineer focusing on mechanical design, manufacturing and assembly
