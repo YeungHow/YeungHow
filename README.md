@@ -31,8 +31,9 @@ Prior into entering Tech, I carry other industrial experiences as a mechanical e
 <br>
 
 ### Cloud Platforms <!-- cloud tech -->
-[![](https://img.shields.io/badge/Cloud%20Computing-Azure-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=blue)](https://www.azure.microsoft.com/) <br/>
-[![](https://img.shields.io/badge/Cloud%20Platform-DataBricks-informational?style=flat&logo=Databricks&logoColor=white&color=red)](https://www.databricks.com/)
+[![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=blue)](https://www.azure.microsoft.com/) <br/>
+[![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&logoColor=white&color=orange)](https://aws.amazon.com/) <br/>
+[![](https://img.shields.io/badge/Data%20Platform-DataBricks-informational?style=flat&logo=Databricks&logoColor=white&color=red)](https://www.databricks.com/)
 ### Tools <!-- tools -->
 [![](https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=Git&logoColor=white&color=red)](https://git-scm.com/)
 <br/> <!-- API Platform-->
@@ -67,19 +68,20 @@ Nothing for now...🦗
 
 ## 🔧 Personal Development Plan
 #### IN PROGRESS 
+[![](https://img.shields.io/badge/Framework-Next%2Ejs-informational?style=flat&logo=nextdotjs&logoColor=white&color=black)](https://nextjs.org/)
 [![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=darkgreen)](https://www.mongodb.com/)
-[![](https://img.shields.io/badge/Framework-ExpressJS-informational?style=flat&logo=Express&logoColor=white&color=white)](https://expressjs.com/)
-[![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white&color=blue)](https://react.dev/)
-[![](https://img.shields.io/badge/Runtime-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=brightgreen)](https://nodejs.org/) <br/>
-[![](https://img.shields.io/badge/GitHub%2Eio-Professional%20Portfolio-informational?style=flat&logo=GitHubPages&logoColor=white&color=black)](https://pages.github.com/)
-[![](https://img.shields.io/badge/Firebase-Professional%20Portfolio-informational?style=flat&logo=Firebase&logoColor=white&color=black)](https://pages.github.com/) 
+[![](https://img.shields.io/badge/Platform-Vercel-informational?style=flat&logo=Vercel&logoColor=white&color=black)](https://vercel.com/)
 <br/>
+
 #### IN ROADMAP
-[![](https://img.shields.io/badge/Netlify-Creative%20Portfolio-informational?style=flat&logo=Netlify&logoColor=white&color=black)](https://www.netlify.com/)
-[![](https://img.shields.io/badge/Medium-Medium%20Posts-informational?style=flat&logo=Medium&logoColor=white&color=black)](https://www.netlify.com/) <br/>
-[![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=Django&logoColor=white&color=darkgreen)](https://www.djangoproject.com/) <br/>
+[![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=Django&logoColor=white&color=darkgreen)](https://www.djangoproject.com/)
+[![](https://img.shields.io/badge/Database-Supabase-informational?style=flat&logo=supabase&logoColor=green&color=black)](https://supabase.com/) 
+[![](https://img.shields.io/badge/Platform-Railway-informational?style=flat&logo=railway&logoColor=white&color=black)](https://railway.com/)
+<br/>
+[![](https://img.shields.io/badge/Netlify-Creative%20Portfolio-informational?style=flat&logo=Netlify&logoColor=white&color=black)](https://www.netlify.com/) <br/>
+[![](https://img.shields.io/badge/Medium-Medium%20Posts-informational?style=flat&logo=Medium&logoColor=white&color=black)](https://medium.com/) <br/>
 [![](https://img.shields.io/badge/Database-Neo4J-informational?style=flat&logo=Neo4j&logoColor=white&color=blue)](https://neo4j.com/) <br/>
-[![](https://img.shields.io/badge/Code-Go-success?style=flat&logo=Go&logoColor=white&color=blue)](https://neo4j.com/) <br/>
+[![](https://img.shields.io/badge/Code-Go-success?style=flat&logo=Go&logoColor=white&color=blue)](https://go.dev/) <br/>
 
 <hr/>
 <h3 align='center'><i>Thanks for dropping by!</i></h3>
