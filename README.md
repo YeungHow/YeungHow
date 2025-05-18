@@ -1,8 +1,8 @@
 ## Hi there, I'm Yeung!👋
 <html>
 <header>
-Currently a Senior Technology Consultant specializing in AI and Data.
-I've worn many hats as a Data Engineer, Data Scientist, Software and AI Engineer. <br/>
+Currently a Senior Data Engineer specializing in AI and Data.
+I've worn many hats as a Consultant, Data Engineer, Data Scientist, Software and AI Engineer <br/>
   
 Prior experience include
 <ul>
